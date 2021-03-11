@@ -2,6 +2,7 @@ site_name: Wizeline MkDocs Template
 nav:
   - Home: index.md
   - About: about.md
+  - Academy Content: acaContent.md
 
 theme:
   name: material
@@ -9,3 +10,6 @@ theme:
     primary: black
     accent: indigo
   logo: images/wizeline_isotype.png
+
+extra_css:
+  - css/extra.css
